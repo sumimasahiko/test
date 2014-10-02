@@ -25,3 +25,9 @@ hogehoge:
 15:48
 
 # これはローカルブランチで編集した内容をnextブランチにコミット
+
+# first commit
+
+# second commit
+
+# third commit
