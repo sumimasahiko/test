@@ -17,3 +17,19 @@ hog
 # change on master
 hogehoge:
 # add on push-to-next branc
+
+# push to next
+15:42
+
+# push to next
+15:48
+
+# これはローカルブランチで編集した内容をnextブランチにコミット
+
+# first commit
+
+# second commit
+
+# third commit
+
+RequestCode
