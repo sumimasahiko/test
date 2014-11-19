@@ -6,6 +6,7 @@
 # modify
 # develop
 # hogehoge
+# fugafuga
 
 # 3.1/develop
 new line
