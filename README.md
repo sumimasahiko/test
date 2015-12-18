@@ -45,3 +45,5 @@ first_second
 second
 
 loca-next
+
+foo
