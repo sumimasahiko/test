@@ -19,3 +19,5 @@ hogehoge:
 # add on push-to-next branc
 
 fix 112
+
+master
